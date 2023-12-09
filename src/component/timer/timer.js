@@ -1,9 +1,5 @@
 import { Component } from "react";
 
-
-
-
-
 class TimerComponent extends Component{
    constructor(){
     super()
